@@ -1,0 +1,61 @@
+2020-01-17 19:31:52,167 INFO     ===================================================================
+2020-01-17 19:31:52,168 INFO     =           MAD - Check and Reboot - Daemon started               =
+2020-01-17 19:31:52,168 INFO     ===================================================================
+2020-01-17 19:31:52,168 INFO     -------------------------------------------------------------------
+2020-01-17 19:31:52,168 INFO     Device:             atv03
+2020-01-17 19:31:52,176 INFO     Inject:             True
+2020-01-17 19:31:52,195 INFO     Worker:             mon_bargte (Init=0)
+2020-01-17 19:31:52,233 INFO     LastData:           2020-01-17 19:31:35 ( 0 minutes ago )
+2020-01-17 19:31:52,256 INFO     LastProtoDate:      2020-01-17 19:31:29 ( 0 minutes ago )
+2020-01-17 19:31:52,272 INFO     LastRestartByMAD:   2020-01-17 07:12:21 ( 739 minutes ago )
+2020-01-17 19:31:52,286 INFO     LastRebootByMAD:    2020-01-17 07:36:49 ( 715 minutes ago )
+2020-01-17 19:31:52,286 INFO     LastRebootByScript: 2019-01-01 00:00:00 ( 549811 minutes ago )
+2020-01-17 19:31:52,302 INFO     -------------------------------------------------------------------
+2020-01-17 19:31:52,302 INFO     Device:             atv04
+2020-01-17 19:31:52,319 INFO     Inject:             True
+2020-01-17 19:31:54,106 INFO     Worker:             mon_UNI (Init=0)
+2020-01-17 19:31:54,143 INFO     LastData:           2020-01-17 19:31:48 ( 0 minutes ago )
+2020-01-17 19:31:54,158 INFO     LastProtoDate:      2020-01-17 19:31:47 ( 0 minutes ago )
+2020-01-17 19:31:54,172 INFO     LastRestartByMAD:   2020-01-17 06:43:39 ( 768 minutes ago )
+2020-01-17 19:31:54,188 INFO     LastRebootByMAD:    2020-01-17 07:40:54 ( 711 minutes ago )
+2020-01-17 19:31:54,189 INFO     LastRebootByScript: 2019-01-01 00:00:00 ( 549811 minutes ago )
+2020-01-17 19:31:54,208 INFO     -------------------------------------------------------------------
+2020-01-17 19:31:54,208 INFO     Device:             atv05
+2020-01-17 19:31:54,216 INFO     Inject:             True
+2020-01-17 19:31:54,239 INFO     Worker:             HL_Tauer_SE (Init=0)
+2020-01-17 19:31:54,285 INFO     LastData:           2020-01-17 19:31:49 ( 0 minutes ago )
+2020-01-17 19:31:54,299 INFO     LastProtoDate:      2020-01-17 19:31:49 ( 0 minutes ago )
+2020-01-17 19:31:54,314 INFO     LastRestartByMAD:   2020-01-17 17:28:31 ( 123 minutes ago )
+2020-01-17 19:31:54,330 INFO     LastRebootByMAD:    2020-01-17 07:46:32 ( 705 minutes ago )
+2020-01-17 19:31:54,331 INFO     LastRebootByScript: 2019-01-01 00:00:00 ( 549811 minutes ago )
+2020-01-17 19:31:54,345 INFO     -------------------------------------------------------------------
+2020-01-17 19:31:54,345 INFO     Device:             atv06
+2020-01-17 19:31:54,355 INFO     Inject:             True
+2020-01-17 19:31:54,382 INFO     Worker:             mon_HL (Init=0)
+2020-01-17 19:31:54,420 INFO     LastData:           2020-01-17 19:31:28 ( 0 minutes ago )
+2020-01-17 19:31:54,435 INFO     LastProtoDate:      2020-01-17 19:31:23 ( 0 minutes ago )
+2020-01-17 19:31:54,449 INFO     LastRestartByMAD:   2020-01-17 15:17:59 ( 253 minutes ago )
+2020-01-17 19:31:54,463 INFO     LastRebootByMAD:    2020-01-17 07:26:45 ( 725 minutes ago )
+2020-01-17 19:31:54,463 INFO     LastRebootByScript: 2019-01-01 00:00:00 ( 549811 minutes ago )
+2020-01-17 19:31:54,478 INFO     -------------------------------------------------------------------
+2020-01-17 19:31:54,478 INFO     Device:             atv07
+2020-01-17 19:31:54,485 INFO     Inject:             True
+2020-01-17 19:31:54,502 INFO     Worker:             mon_bargte (Init=0)
+2020-01-17 19:31:54,537 INFO     LastData:           2020-01-17 19:31:53 ( 0 minutes ago )
+2020-01-17 19:31:54,552 INFO     LastProtoDate:      2020-01-17 19:31:14 ( 0 minutes ago )
+2020-01-17 19:31:54,565 INFO     LastRestartByMAD:   2020-01-17 16:58:12 ( 153 minutes ago )
+2020-01-17 19:31:54,576 INFO     LastRebootByMAD:    2020-01-17 15:52:53 ( 219 minutes ago )
+2020-01-17 19:31:54,576 INFO     LastRebootByScript: 2019-01-01 00:00:00 ( 549811 minutes ago )
+2020-01-17 19:31:54,589 INFO     -------------------------------------------------------------------
+2020-01-17 19:31:54,589 INFO     Device:             atv08
+2020-01-17 19:31:54,596 INFO     Inject:             True
+2020-01-17 19:31:54,610 INFO     Worker:             mon_HL (Init=0)
+2020-01-17 19:31:54,644 INFO     LastData:           2020-01-17 19:31:53 ( 0 minutes ago )
+2020-01-17 19:31:54,659 INFO     LastProtoDate:      2020-01-17 19:31:16 ( 0 minutes ago )
+2020-01-17 19:31:54,672 INFO     LastRestartByMAD:   2020-01-17 06:47:14 ( 764 minutes ago )
+2020-01-17 19:31:54,698 INFO     LastRebootByMAD:    2020-01-17 07:27:28 ( 724 minutes ago )
+2020-01-17 19:31:54,698 INFO     LastRebootByScript: 2019-01-01 00:00:00 ( 549811 minutes ago )
+2020-01-17 19:31:58,374 ERROR    Traceback (most recent call last):
+2020-01-17 19:31:58,374 ERROR      File "CheckMadDevices.py", line 294, in <module>
+2020-01-17 19:31:58,374 ERROR    time.sleep(int(mon_item.sleeptime_between_check))
+2020-01-17 19:31:58,374 ERROR    KeyboardInterrupt
